@@ -1,0 +1,183 @@
+.top_container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding: 20px;
+  height: 840px;
+}
+
+
+.my_pfp {
+  border-radius: 100%;
+}
+
+
+.my_sports_pic {
+  border-radius: 100%;
+}
+
+
+
+body {
+  margin: 0;
+  text-align: center;
+}
+
+.contact_color_deatils {
+  background-color: #F9CEEE;
+}
+.bottom_cloud {
+  position: absolute;
+  left: 280px;
+  bottom: 500px;
+}
+
+.NAME {
+  color: black;
+}
+.hello {
+  color: black;
+}
+.top_cloud {
+  position: absolute;
+  right: 300px;
+  top: 150px;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 4rem;
+  padding-top: 200px;
+  font-family: 'Sacramento', cursive;
+  margin-top: 0;
+  width: 20%;
+  margin: 0 auto;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.footer_link {
+  color: orange;
+}
+
+
+
+.mountain {
+  position: absolute;
+  left: 360px;
+  bottom: 70px;
+}
+
+
+.a_programmer {
+  font-size: 1.50rem;
+  margin-top: 0;
+  width: 20%;
+  margin: 0 auto;
+}
+
+
+
+p {
+  font-size: 1.4rem;
+}
+
+
+.years_old {
+  color: red;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 50px auto;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+.top_container {
+  background-color: #E4F9F5;
+  padding: 20;
+  height: 870px;
+}
+
+
+.my_pfp {
+  border-radius: 100%;
+}
+
+
+.my_sports_pic {
+  border-radius: 100%;
+}
+
+.mountain {
+  position: absolute;
+  left: 360px;
+  bottom: 30px;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+.bottom_cloud {
+  position: absolute;
+  left: 400px;
+}
+
+.top_cloud {
+  position: absolute;
+  right: 430px;
+  bottom: 680px;
+}
+
+h1 {
+  font-size: 40pt;
+  font-family: 'Sacramento', cursive;
+  margin-top: 0;
+  padding-top: 200px;
+  width: 20%;
+  margin: 0 auto;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+} */
